@@ -82,5 +82,6 @@ go build
 
 ```bash
 # Inspired By
+github.com/dedidot/simple-api-golang (Copy from)
 github.com/mingrammer/go-todo-rest-api-example
 ```
